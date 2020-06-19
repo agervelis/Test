@@ -12,13 +12,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 What you need to run our project:
 
-*Visual Studio
-*Ethernet
+* Visual Studio
+* Ethernet
 
 ### Installing
 
-*Download and open project in Visual Studio.
-*Run the application.
+* Download and open project in Visual Studio.
+* Run the application.
 *
 *
 
@@ -31,9 +31,9 @@ What you need to run our project:
 
 ## Authors
 
-*Deividas Tilindis - Developer
-*Aurimas Gervelis - Analyst
-*Mykolas Skukauskas - Quality assurance specialist
+* Deividas Tilindis - Developer
+* Aurimas Gervelis - Analyst
+* Mykolas Skukauskas - Quality assurance specialist
 
 ## License
 
