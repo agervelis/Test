@@ -1,7 +1,8 @@
+![image](https://venturebeat.com/wp-content/uploads/2019/11/visual-studio-logo.jpeg?fit=578%2C289&strip=all)
 
 # Out4Fit
 
-Out4Fit is an API that lets users get outfit recommendations based on weather and their gender.
+Out4Fit is an API that lets users get outfit recommendations based on their gender and weather.
 
 ## Getting Started
 
@@ -24,19 +25,9 @@ What you need to run our project:
 ## Built With
 
 * [Visual Studio](https://visualstudio.microsoft.com/en/downloads/) - Microsoft platform .NET
-
-
-![image](https://venturebeat.com/wp-content/uploads/2019/11/visual-studio-logo.jpeg?fit=578%2C289&strip=all)
-
-
 * [RapidAPI HM](https://rapidapi.com/apidojo/api/hm-hennes-mauritz/) - API that returns clothes
-
-
-![image](https://www.hm.com/entrance/assets/bundle/img/HM-Share-Image.jpg)
-
-
 * [AccuWeather](https://developer.accuweather.com/) - API that returns weather info
- ![image](https://www.androidpolice.com/wp-content/uploads/2020/04/accuweather-new-logo-hero.png)
+
 
 ## Authors
 
@@ -45,8 +36,7 @@ What you need to run our project:
 * Mykolas Skukauskas - Quality assurance specialist
 
 ## License
-
-D.A.M.
+All source code and main ideas belongs to Out4Fit. All rights reserved. 2020
 
 
 
