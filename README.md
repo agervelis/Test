@@ -22,11 +22,11 @@ What you need to run our project:
 * Run the application.
 * Run XAMPP and open mySQL database.
 * Add /swagger to the URL of the opened browser.
-* Click Users tab and select the Post method to create a new user (insert your name, gender and password).
-* Click Post method to change your password using your user ID and new password.
-* Click Delete to delete an user using user's ID.
-* Click DressCodeGenerator tab and select a get method, then enter your user ID and name of your city. The method will return an outfit recommendation based on the weather in your city and also the local temperature.
-* Click users tab and the Get method and enter user's ID to save the last DressCodeGenerator results.
+	- Click Users tab and select the Post method to create a new user (insert your name, gender and password).
+	- Click Post method to change your password using your user ID and new password.
+	- Click Delete to delete an user using user's ID.
+	- Click DressCodeGenerator tab and select a get method, then enter your user ID and name of your city. The method will return an outfit recommendation based on the weather in your city and also the local temperature.
+	- Click users tab and the Get method and enter user's ID to save the last DressCodeGenerator results.
 
 ## Built With
 
