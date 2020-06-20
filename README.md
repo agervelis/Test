@@ -33,7 +33,7 @@ What you need to run our project:
 * [Visual Studio](https://visualstudio.microsoft.com/en/downloads/) - Microsoft platform .NET
 * [RapidAPI HM](https://rapidapi.com/apidojo/api/hm-hennes-mauritz/) - API that returns clothes
 * [AccuWeather](https://developer.accuweather.com/) - API that returns weather info
-* [XAMPP] (https://www.apachefriends.org/index.html) - Program used to access mySQL database
+* [XAMPP] (https://www.apachefriends.org/index.html/) - Program used to access mySQL database
 
 ## Authors
 
