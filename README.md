@@ -14,11 +14,13 @@ What you need to run our project:
 
 * Visual Studio
 * Ethernet
+* XAMPP
 
 ### Installing
 
 * Download and open project in Visual Studio.
 * Run the application.
+* Run XAMPP and open mySQL database.
 * Add /swagger to the URL of the opened browser.
 * Click Users tab and select the Post method to create a new user (insert your name, gender and password).
 * Click Post method to change your password using your user ID and new password.
@@ -31,7 +33,7 @@ What you need to run our project:
 * [Visual Studio](https://visualstudio.microsoft.com/en/downloads/) - Microsoft platform .NET
 * [RapidAPI HM](https://rapidapi.com/apidojo/api/hm-hennes-mauritz/) - API that returns clothes
 * [AccuWeather](https://developer.accuweather.com/) - API that returns weather info
-
+* [XAMPP] (https://www.apachefriends.org/index.html) - Program used to access mySQL database
 
 ## Authors
 
