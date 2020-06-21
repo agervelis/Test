@@ -1,4 +1,4 @@
-![image](https://venturebeat.com/wp-content/uploads/2019/11/visual-studio-logo.jpeg?fit=578%2C289&strip=all)
+![image](http://prntscr.com/t3o9ho)
 
 # Out4Fit
 
